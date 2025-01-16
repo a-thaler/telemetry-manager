@@ -8,7 +8,7 @@ require (
 	github.com/google/yamlfmt v0.14.0
 	github.com/joho/godotenv v1.5.1
 	github.com/k3d-io/k3d/v5 v5.7.5
-	github.com/kyma-project/kyma/hack/table-gen v0.0.0-20240626075036-d374ec55c335
+	github.com/kyma-project/kyma/hack/table-gen v0.0.0-20250109094857-af275ca21d2a
 	github.com/mikefarah/yq/v4 v4.44.6
 	github.com/onsi/ginkgo/v2 v2.22.2
 	github.com/vektra/mockery/v2 v2.50.4
